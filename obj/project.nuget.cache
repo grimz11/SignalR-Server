@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQ4gKHfOcja/o29wd8Hga9Zhq26V7NLQB/euHTi98NLswe33H5Zu339nJlfdDQLuQb+ZoLmDxMzNZclp44kmMw==",
+  "success": true,
+  "projectFilePath": "E:\\Dev\\live-chatbot\\demo\\SignalRServer\\SignalRServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
